@@ -3,21 +3,21 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "00.00.2000"; // Дата рождения
-var fullname = "лох пеоров кукуев" // ФИО
-var name = "Имя" // Имя
+var birthdate = "15.04.2000"; // Дата рождения
+var fullname = "Метлiн Давид Арсенович" // ФИО
+var name = "Давид" // Имя
 
 // Паспорт
-var passport_id = "3872011238" // Номер паспорта
+var passport_id = "003519034" // Номер паспорта
 
 // КПП
 var kpp_id = "3872011238" // ИНН
 
 // Права
-var rights_valid_until = "11.09.2027" // Права "Дійсні до"
+var rights_valid_until = "29.11.2051" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
-var rights_tsc = "ТСЦ 8631" // Права "Видав
-var rights_id = "KBE968639" // Права "Серія та номер""
+var rights_tsc = "ТСЦ 1242" // Права "Видав
+var rights_id = "BXM826411" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2023" // Сертификат "Дійсний до"
